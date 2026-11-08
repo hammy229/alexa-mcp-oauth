@@ -5,6 +5,8 @@
 [![CI](https://github.com/hammy229/alexa-mcp-oauth/actions/workflows/ci.yml/badge.svg)](https://github.com/hammy229/alexa-mcp-oauth/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+**Links:** [Example server](examples/server.ts) · [Checklist tests](tests/alexa-checklist.test.ts) · [Used in Caddie Coach](https://github.com/hammy229/caddie-coach) · [Security policy](SECURITY.md) · [Arham Doshi](https://arhamdoshi.dev) · [LinkedIn](https://linkedin.com/in/arhamdoshi)
+
 ```ts
 import express from "express";
 import { alexaMcpAuth, pinLogin } from "alexa-mcp-oauth";
